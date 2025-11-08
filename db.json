@@ -1,0 +1,32 @@
+{
+  "clientes": [
+    {
+      "nomeCompleto": "Maria Souza",
+      "cpf": "123.123.321-11",
+      "dataNascimento": "2025-11-14",
+      "email": "mate@email.com",
+      "telefone": "(11) 98888-7777",
+      "logradouro": "Rua das Flores",
+      "numero": "10",
+      "complemento": "",
+      "bairro": "Centro",
+      "cidade": "umuarama",
+      "estado": "PR",
+      "id": 1
+    },
+    {
+      "nomeCompleto": "André Lucas Camargo",
+      "cpf": "123.456.789-10",
+      "dataNascimento": "2025-11-27",
+      "email": "meu@gmail.com",
+      "telefone": "11 156454812",
+      "logradouro": "rua do futebol",
+      "numero": "358",
+      "complemento": "casa",
+      "bairro": "Centro",
+      "cidade": "Umuarama",
+      "estado": "PR",
+      "id": 2
+    }
+  ]
+}
